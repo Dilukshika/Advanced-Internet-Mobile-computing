@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tic_tak_toe</string>
+    <string name="x">X</string>
+    <string name="o">O</string>
+
+    <string name="winner">Winner: %s</string>
+    <string name="draw">It\'s a draw!</string>
+    <string name="turn">Turn: %s</string>
+</resources>
